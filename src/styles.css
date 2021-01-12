@@ -21,3 +21,11 @@ body {
   margin-top: 70px;
   border-radius: 4px;
 }
+
+.cards-product {
+  background: black;
+  color: white;
+}
+.cards-product img {
+  width: 100%;
+}
